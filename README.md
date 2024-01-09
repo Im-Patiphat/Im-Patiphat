@@ -1,11 +1,16 @@
+<div class="container" >
+<div class="me" align="center">
 
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello Everyone
+Hello Everyone
 ================================================================================================================================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=adfs&duration=3000&pause=500&color=4453FF&background=FFFFFF00&vCenter=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Patiphat.;I'm+studying+software+engineering." alt="Typing SVG" /></a>
+My name is Patiphat.
+I'm studying software engineering.
 --------------------
-
+</div>
+     </div>
+     
 * 🌍  I'm based in Thailand (Suphan Buri)
 * ✉️  You can contact me at [654259017@webmail.npru.ac.th](mailto:654259017@webmail.npru.ac.th)
 
@@ -27,3 +32,4 @@ src="https://img.shields.io/github/followers/Im-Patiphat?logo=github&style=for-t
 ### Badges
 
 <a href="https://github.com/Im-Patiphat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Patiphat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
