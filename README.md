@@ -14,6 +14,10 @@ I'm studying software engineering.
 * 🌍  I'm based in Thailand (Suphan Buri)
 * ✉️  You can contact me at [654259017@webmail.npru.ac.th](mailto:654259017@webmail.npru.ac.th)
 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/im_raikiri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Im-Patiphat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 <a href="https://www.github.com/Im-Patiphat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Im-Patiphat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -25,11 +29,8 @@ src="https://img.shields.io/github/followers/Im-Patiphat?logo=github&style=for-t
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/im_raikiri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Im-Patiphat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
 <a href="https://github.com/Im-Patiphat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Patiphat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
 
