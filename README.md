@@ -3,7 +3,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello Everyone
 ================================================================================================================================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=adfs&duration=3000&pause=500&color=000000&background=FFFFFF00&vCenter=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Patiphat.;I'm+studying+software+engineering." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=adfs&duration=3000&pause=500&color=4453FF&background=FFFFFF00&vCenter=true&multiline=true&random=false&width=435&height=60&lines=My+name+is+Patiphat.;I'm+studying+software+engineering." alt="Typing SVG" /></a>
 --------------------
 
 * 🌍  I'm based in Thailand (Suphan Buri)
